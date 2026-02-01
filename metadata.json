@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BacPhysiqueChimie.tn",
+  "description": "Plateforme éducative tunisienne dédiée à la Physique et la Chimie pour le secondaire (1ère à 4ème année). Cours, exercices corrigés et assistant IA spécialisé.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
